@@ -4,6 +4,8 @@ cd graphql-mysql
 npm init -y
 npm install express graphql express-graphql mysql2 sequelize
 node server.js 
+#revisar versiones
+librerias
 #consultas 
 
 {
